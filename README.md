@@ -1,8 +1,30 @@
-# React + Vite
+# Но чем написано?
+- React
+- Tailwind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<br>
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Что сделано?
+- На сайте 2 фото(фон и обычное), оба преобразованы в webp формат.
+- На телефонах показывается бургер меню. И адаптация под малые устройства.
+- На ии сгенерированы изображения и текст.
+- И выполнены другие пункты из тз.
+
+<br>
+
+
+## Проверить сайт:
+- Google page speed: [Page speed](https://pagespeed.web.dev/?hl=ru)
+- Validator w3c: [validator](https://validator.w3.org/)
+
+**В поля вставить ссылку на сайт:**
+  ```ruby
+https://modi-test-eight.vercel.app/
+  ```
+
+<br>
+
+<br>
+
+[🔗Ссылка на сайт](https://modi-test-eight.vercel.app/)
