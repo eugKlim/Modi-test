@@ -31,7 +31,7 @@ const GameFeatures = () => {
 
         <div className="sm:mx-auto sm:mt-10 lg:w-2/5 lg:text-right">
           <img
-            src="/image/intro-image.jpg"
+            src="/image/intro-image.webp"
             alt=" Gates of Olympus Play image"
             className="w-86 inline rounded-4xl shadow-1"
           />

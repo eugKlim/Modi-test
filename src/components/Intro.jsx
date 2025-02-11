@@ -5,7 +5,7 @@ const Intro = () => {
     <section className="intro py-28">
       <div className="container flex justify-between items-center space-x-10 text-center">
         <div className=" mx-auto sm:w-full sm:px-6 md:px-20 xl:w-3/5">
-          <h1 className="text-5xl font-bold text-yellow-400">
+          <h1 className="text-5xl font-bold text-yellow-400 leading-15">
             Gates of Olympus Play
           </h1>
           <span className="w-22 h-1 bg-amber-400 block rounded-full mt-10 mx-auto" />
